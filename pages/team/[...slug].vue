@@ -1,11 +1,39 @@
 <script setup lang="ts">
 const members = [
   {
+    name: 'Mega5000201',
+    icon: '',
+    job: 'Community Owner',
+    quote: 'Simple',
+    link: 'https://github.com/Mega500201'
+  },
+  {
+    name: 'Vadelyta',
+    icon: '', 
+    job: 'Community Ownerin',
+    quote: '',
+    link: '',
+  },
+  {
+    name: 'Кузе',
+    icon: '',
+    job: 'Stv Community Owner',
+    quote: '',
+    link: 'https://github.com/drkuze',
+  },
+  {
     name: 'Vxrpenter',
     icon: '/team-pics/vxrpenter.png',
-    job: 'Frontend Developer',
+    job: 'Frontend Developer, Server Manager',
     quote: 'Running around naked in the snow is actually kinda nice',
     link: 'https://github.com/Vxrpenter'
+  },
+  {
+    name: 'EntityNotFound',
+    icon: '',
+    job: 'Teamleitung',
+    quote: '',
+    link: '',
   },
   {
     name: 'FoxWorn',
@@ -13,7 +41,7 @@ const members = [
     job: 'Backend Developer',
     quote: 'Bazinga',
     link: 'https://github.com/FoxWorn3365'
-  }
+  },
 ]
 </script>
 
