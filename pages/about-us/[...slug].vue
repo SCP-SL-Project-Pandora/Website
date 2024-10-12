@@ -8,8 +8,7 @@
       <UCard style="background-color: #121212; width: 550px;">
       <h1>What exactly is Override?</h1>
       <p>
-        Override is a platform for hosting your SCP:SL plugins or schematics. They are also made more accessibly for users to find the right version
-        and then download it
+        Project-Pandora ist ein Server Projekt im Spiel SCP-Secret Labatory. Wir spezalisieren uns auf professionelle Server und desen Verwaltung
       </p>
       </UCard>
     </div>
